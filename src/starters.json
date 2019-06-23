@@ -1,0 +1,130 @@
+[
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "image": "https://www.serebii.net/art/th/1.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Charmander",
+      "image": "https://www.serebii.net/art/th/4.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Squirtle",
+      "image": "https://www.serebii.net/art/th/7.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Chikorita",
+      "image": "https://www.serebii.net/art/th/152.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Cyndaquil",
+      "image": "https://cdn.bulbagarden.net/upload/thumb/9/9b/155Cyndaquil.png/1200px-155Cyndaquil.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Totodile",
+      "image": "https://www.serebii.net/art/th/158.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Treecko",
+      "image": "https://www.serebii.net/art/th/252.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Torchic",
+      "image": "https://www.serebii.net/art/th/255.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Mudkip",
+      "image": "https://www.serebii.net/art/th/258.png",
+      "clicked": false
+
+    },
+    {
+      "id": 10,
+      "name": "Turtwig",
+      "image": "https://www.serebii.net/art/th/387.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Chimchar",
+      "image": "https://www.serebii.net/art/th/390.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Piplup",
+      "image": "https://www.serebii.net/art/th/393.png",
+      "clicked": false
+    },
+    {
+        "id": 13,
+        "name": "Snivy",
+        "image": "https://www.serebii.net/art/th/495.png",
+        "clicked": false
+      },
+      {
+        "id": 14,
+        "name": "Tepig",
+        "image": "https://www.serebii.net/art/th/498.png",
+        "clicked": false
+      },
+      {
+        "id": 15,
+        "name": "Oshawott",
+        "image": "https://www.serebii.net/art/th/501.png",
+        "clicked": false
+      },
+      {
+        "id": 16,
+        "name": "Chespin",
+        "image": "https://www.serebii.net/art/th/650.png",
+        "clicked": false
+      },
+      {
+        "id": 17,
+        "name": "Fennekin",
+        "image": "https://www.serebii.net/art/th/653.png",
+        "clicked": false
+      },
+      {
+        "id": 18,
+        "name": "Froakie",
+        "image": "https://www.serebii.net/art/th/656.png",
+        "clicked": false
+      },
+      {
+        "id": 19,
+        "name": "Rowlett",
+        "image": "https://www.serebii.net/art/th/722.png",
+        "clicked": false
+      },
+      {
+        "id": 20,
+        "name": "Litten",
+        "image": "https://www.serebii.net/art/th/725.png",
+        "clicked": false
+      },
+      {
+        "id": 21,
+        "name": "Popplio",
+        "image": "https://cdn.bulbagarden.net/upload/thumb/d/d8/728Popplio.png/250px-728Popplio.png",
+        "clicked": false
+      }
+  ]
+  

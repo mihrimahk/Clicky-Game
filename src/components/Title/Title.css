@@ -1,0 +1,9 @@
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 250%;
+    color:black;
+    font-weight: bolder;
+    text-shadow: -3px 0 white, 0 3px white, 3px 0 white, 0 -3px white;
+    margin-bottom: 10px;
+}
